@@ -1,0 +1,21 @@
+
+
+body{
+    background-image: url(../photos/login/login_photo.jpg);   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.container{
+    width: 40%;
+    background-color: rgb(233, 223, 223);
+    margin-top: 200px;
+    
+}
+
+
+i{
+    margin-right: 5px;
+}
+

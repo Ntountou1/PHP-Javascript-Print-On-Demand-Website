@@ -1,0 +1,10 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.8"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/package-versions-deprecated": true
+        }
+    }
+}

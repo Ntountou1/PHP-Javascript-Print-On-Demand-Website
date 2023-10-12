@@ -1,0 +1,6 @@
+{"_id":{"$oid":"61f5533d682f000099000ee5"},"username":"admin","email":"admin@test.com","firstName":"admin","lastName":"admin","password":"pass"}
+{"_id":{"$oid":"61f9ada6af32000006003143"},"username":"myusername","email":"myemail","firstName":"myfirst","lastName":"mylast","password":"mypass"}
+{"_id":{"$oid":"61fd5637d24d000001004ba6"},"username":"a","email":"a","firstName":"a","lastName":"a","password":"a"}
+{"_id":{"$oid":"6200025b7f100000350009d3"},"username":"JohnDoe","email":"johndoe@test.com","firstName":"John","lastName":"Doe","password":"JohnDoe"}
+{"_id":{"$oid":"620002717f100000350009d4"},"username":"aaa","email":"aaa","firstName":"aaa","lastName":"aaa","password":"aaa"}
+{"_id":{"$oid":"62043df9d71f0000d40020e3"},"username":"Panos","email":"panosntountou7@hotmail.com","firstName":"Παναγιώτης","lastName":"Ντουντούκαλης","password":"panos"}
